@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vin\'s Kitchen</string>
+    <string name="app_name">Warteg Bahari</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="checkout_statement">Thank you\nYour order has been confirmed.\nPlease pay at the cashier.</string>
